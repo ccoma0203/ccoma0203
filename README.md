@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Yujung 👋
 
-<!--
-**ccoma0203/ccoma0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I notice the little frustrations in everyday life and work —
+and I'm building AI-powered solutions to fix them, one by one.
 
-Here are some ideas to get you started:
+## 🤔 Things that bugged me, things I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 An app that discovers small creators who post consistently but fly under the radar
+- ♻️ "Wait, where does this go?" — A region-based recycling guide app
+- 🎬 An AI-powered tool that automates the grind of video editing
+
+## 🌱 Currently figuring out
+
+- Building AI automation with Claude Code
+- Turning ideas into things that actually work
